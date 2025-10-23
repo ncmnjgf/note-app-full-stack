@@ -36,4 +36,23 @@ This app allows users to **create, read, update, and delete notes** efficiently 
 ---
 
 ## 📂 Folder Structure
+note-app/
+│
+├── backend/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── .env
+│ ├── index.js
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── context/
+│ │ ├── pages/
+│ │ ├── App.jsx
+│ │ └── main.jsx
+│ ├── package.json
+│
+└── README.md
 
